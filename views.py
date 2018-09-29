@@ -10,4 +10,4 @@ def index(request):
 	if (1 > 0):
 		return HttpResponse('error')
 	return HttpResponse('Ok')
-
+# wyn分支添加了内容
