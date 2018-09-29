@@ -7,5 +7,7 @@ def index(request):
 	# 再添加一条注释2
 	# 再添加一条注释3
 	# 再添加一条注释4
+	if (1 > 0):
+		return HttpResponse('error')
 	return HttpResponse('Ok')
 
