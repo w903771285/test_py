@@ -12,3 +12,4 @@ def index(request):
 	return HttpResponse('Ok')
 
 # master 增加内容
+# wyn分支添加了内容
