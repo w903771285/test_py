@@ -15,4 +15,3 @@ def index(request):
 # wyn分支添加了内容
 
 # wyn添加内容，GitHub合并
-# 再次添加
